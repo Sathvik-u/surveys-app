@@ -1,0 +1,16 @@
+#bom{
+    
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom,white,silver);
+}
+@media screen and (max-width:786px) {
+    #bom{
+        width:75%
+    }
+}
+@media screen and (min-width:786px){
+    #bom{
+        width:50%
+    }
+}
+

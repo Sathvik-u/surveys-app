@@ -1,0 +1,16 @@
+#box{
+    height: fit-content;
+    background-image: linear-gradient(to bottom left,violet,rgb(0, 128, 255));
+    ;
+    padding-bottom: 20px;
+}
+#tab{
+    border: 2px white solid;
+    border-radius: 10px;
+    ;
+}
+#xsho{
+    background-image: linear-gradient(to top left,rgb(255, 136, 0),violet)
+    ;
+    padding-bottom: 10px;
+}
